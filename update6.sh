@@ -9,7 +9,7 @@ if [ ! -d /www/server/panel/BTPanel ];then
 	echo "5.9平滑升级到6.0的命令：curl http://download.bt.cn/install/update_to_6.sh|bash"
 	exit 0;
 fi
-
+#!啊哈啊哈
 download_Url=$NODE_URL
 btpanel=https://download.btpanel.net
 setup_path=/www
